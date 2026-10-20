@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .hero-slide {
+    backface-visibility: hidden;
+  }
+  .lazy-section {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 500px;
+  }
+  /* Grid hasil browse (bisa 30 kartu) - ukuran perkiraan lebih besar supaya
+     scrollbar tidak "meloncat" saat grid mulai dilukis. */
+  .lazy-grid {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 1200px;
+  }
+}
+
+/* Animasi yang dulu di-inject lewat <style> di dalam komponen halaman
+   (Donghua.jsx). Dipindah ke sini supaya tidak dibuat ulang setiap render. */
+@keyframes shimmer {
+  0% {
+    transform: translate3d(-100%, 0, 0);
+  }
+  100% {
+    transform: translate3d(200%, 0, 0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
