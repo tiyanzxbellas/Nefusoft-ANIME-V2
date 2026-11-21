@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0a0a0c" />
+  <meta name="description" content="Nonton ribuan anime subtitle Indonesia secara gratis tanpa gangguan iklan di NefuSoft dengan kualitas tinggi.">
+  <title>NefuSoft - Streaming Anime Sub Indo Gratis</title>
+  
+  <meta property="og:title" content="NefuSoft - Streaming Anime Sub Indo Gratis">
+  <meta property="og:description" content="Nonton ribuan anime subtitle Indonesia secara gratis tanpa gangguan iklan di NefuSoft dengan kualitas tinggi.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/alip-jmbd/alipp/main/icons-full.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <link rel="icon" type="image/jpeg" href="https://raw.githubusercontent.com/alip-jmbd/alipp/main/icons-full.jpg" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cf.tiyanstores.workers.dev" crossorigin>
+  <link rel="preconnect" href="https://apisoft.tiyan.my.id" crossorigin>
+  <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
+  <link rel="preconnect" href="https://be.komikcast.cc" crossorigin>
+  <link rel="preconnect" href="https://donghua.ryumin.my.id" crossorigin>
+  <link rel="preconnect" href="https://zmwcwtfjjqkqwzoupzwn.supabase.co" crossorigin>
+
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+  <link rel="dns-prefetch" href="https://cf.tiyanstores.workers.dev">
+  <link rel="dns-prefetch" href="https://apisoft.tiyan.my.id">
+  <link rel="dns-prefetch" href="https://raw.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://be.komikcast.cc">
+  <link rel="dns-prefetch" href="https://donghua.ryumin.my.id">
+  <link rel="dns-prefetch" href="https://zmwcwtfjjqkqwzoupzwn.supabase.co">
+
+  <link rel="preload" as="image" href="/img/welcomebanner.webp" type="image/webp" fetchpriority="high" />
+  <link rel="preload" as="image" href="/img/nefusoft.webp" type="image/webp" fetchpriority="high" />
+
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700;800;900&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700;800;900&display=swap" media="print" onload="this.media='all'" />
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700;800;900&display=swap" />
+  </noscript>
+
+  <style>
+    body { background-color: #0a0a0c; margin: 0; color: white; font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; overflow-x: hidden; }
+    footer { content-visibility: auto; contain-intrinsic-size: 300px; }
+
+    /* Elegant, lightweight instant CSS/HTML preloader inside #root to achieve FCP near 0ms */
+    .nefu-initial-loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #0a0a0c;
+      color: white;
+      font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    }
+    .nefu-logo-container {
+      position: relative;
+      margin-bottom: 24px;
+      animation: pulseLogo 1.8s ease-in-out infinite alternate;
+    }
+    .nefu-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid rgba(246, 207, 128, 0.1);
+      border-radius: 50%;
+      border-top-color: #F6CF80;
+      animation: nefuSpin 1s ease-in-out infinite;
+    }
+    @keyframes pulseLogo {
+      0% { transform: scale(0.95); opacity: 0.8; }
+      100% { transform: scale(1.05); opacity: 1; }
+    }
+    @keyframes nefuSpin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div id="root">
+    <!-- Instant First Contentful Paint -->
+    <div class="nefu-initial-loading">
+      <div class="nefu-logo-container">
+        <img src="/img/nefusoft.webp" alt="NefuSoft" width="96" height="96" style="width: 96px; height: 96px; object-fit: contain;" />
+      </div>
+      <div class="nefu-spinner"></div>
+    </div>
+  </div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

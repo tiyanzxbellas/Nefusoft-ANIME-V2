@@ -1,0 +1,884 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-21T01:01:59.381750+00:00",
+  "source": "Anichin catalogue cache",
+  "popular": [
+    {
+      "title": "BTTH SEASON 1-4",
+      "anichinUrl": "https://anichin.moe/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal Movie: Battle Of The Gods",
+      "anichinUrl": "https://anichin.moe/renegade-immortal-movie-battle-of-the-gods/",
+      "slug": "renegade-immortal-movie-battle-of-the-gods",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4",
+      "anichinUrl": "https://anichin.moe/yi-nian-yong-heng-season-4/",
+      "slug": "yi-nian-yong-heng-season-4",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "anichinUrl": "https://anichin.moe/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Shrouding the Heavens",
+      "anichinUrl": "https://anichin.moe/shrouding-the-heavens/",
+      "slug": "shrouding-the-heavens",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Perfect World",
+      "anichinUrl": "https://anichin.moe/perfect-world/",
+      "slug": "perfect-world",
+      "poster": "https://anichin.moe/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect",
+      "anichinUrl": "https://anichin.moe/soul-land-2-the-unrivaled-tang-sect/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "BTTH Movie: Battle of Two Emperors",
+      "anichinUrl": "https://anichin.moe/btth-movie-battle-of-two-emperors/",
+      "slug": "btth-movie-battle-of-two-emperors",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/11/BTTH-Movie-Battle-of-Two-Emperors-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Azure Legacy",
+      "anichinUrl": "https://anichin.moe/azure-legacy/",
+      "slug": "azure-legacy",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "anichinUrl": "https://anichin.moe/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "poster": "https://anichin.moe/wp-content/uploads/2020/07/554918.jpg",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "BTTH SEASON 5",
+      "anichinUrl": "https://anichin.moe/oyen-pertempuran-akhir-sekte-misty-cloud/",
+      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal",
+      "anichinUrl": "https://anichin.moe/renegade-immortal/",
+      "slug": "renegade-immortal",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Wu Dong Qian Kun Season 7",
+      "anichinUrl": "https://anichin.moe/wu-dong-qian-kun-season-7/",
+      "slug": "wu-dong-qian-kun-season-7",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/11/Wu-Dong-Qian-Kun-Season-7-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "anichinUrl": "https://anichin.moe/tales-of-herding-god/",
+      "slug": "tales-of-herding-god",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    }
+  ],
+  "ongoing": [
+    {
+      "title": "Eat Around the Mortal World Episode 25 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/eat-around-the-mortal-world-episode-25-subtitle-indonesia/",
+      "slug": "eat-around-the-mortal-world-episode-25-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/11/Eat-Around-the-Mortal-World-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 25"
+    },
+    {
+      "title": "Supreme God Emperor Episode 659 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/supreme-god-emperor-episode-659-subtitle-indonesia/",
+      "slug": "supreme-god-emperor-episode-659-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Supreme-God-Emperor-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 659"
+    },
+    {
+      "title": "Against the Sky Supreme Episode 568 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/against-the-sky-supreme-episode-568-subtitle-indonesia/",
+      "slug": "against-the-sky-supreme-episode-568-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2021/07/Against.webp",
+      "sub": "Donghua",
+      "status": "Ep 568"
+    },
+    {
+      "title": "The Supreme Dantian Episode 39 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-supreme-dantian-episode-39-subtitle-indonesia/",
+      "slug": "the-supreme-dantian-episode-39-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/10/The-Supreme-Dantian.webp",
+      "sub": "Donghua",
+      "status": "Ep 39"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect Episode 180 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/soul-land-2-the-unrivaled-tang-sect-episode-180-subtitle-indonesia/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect-episode-180-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Soul-Land-2-The-Unrivaled-Tang-Sect-1.webp",
+      "sub": "Donghua",
+      "status": "Ep 180"
+    },
+    {
+      "title": "Lingwu Continent Episode 234 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/lingwu-continent-episode-234-subtitle-indonesia/",
+      "slug": "lingwu-continent-episode-234-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/07/Lingwu-Continent-Subtitle-Indonesia-Anichin.site_.webp",
+      "sub": "Donghua",
+      "status": "Ep 234"
+    },
+    {
+      "title": "Azure Legacy Episode 104 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/azure-legacy-episode-104-subtitle-indonesia/",
+      "slug": "azure-legacy-episode-104-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Azure-Legacy-Season-3-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 104"
+    },
+    {
+      "title": "The Great Ruler Chibi: Kota Kecil Great Qian Episode 35 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-great-ruler-chibi-kota-kecil-great-qian-episode-35-subtitle-indonesia/",
+      "slug": "the-great-ruler-chibi-kota-kecil-great-qian-episode-35-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/08/The-Great-Ruler-Chibi-Kota-Kecil-Great-Qian-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 35"
+    },
+    {
+      "title": "The Great Ruler 3D Episode 100 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-great-ruler-3d-episode-100-subtitle-indonesia/",
+      "slug": "the-great-ruler-3d-episode-100-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/The-Great-Ruler-3D-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 100"
+    },
+    {
+      "title": "God of War Alliance Episode 10 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/god-of-war-alliance-episode-10-subtitle-indonesia/",
+      "slug": "god-of-war-alliance-episode-10-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/God-of-War-Alliance-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 10"
+    },
+    {
+      "title": "The Guardian of Daxia Episode 18 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-guardian-of-daxia-episode-18-subtitle-indonesia/",
+      "slug": "the-guardian-of-daxia-episode-18-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/09/The-Guardian-of-Daxia.webp",
+      "sub": "Donghua",
+      "status": "Ep 18"
+    },
+    {
+      "title": "Jade Dynasty Episode 94 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/jade-dynasty-episode-94-subtitle-indonesia/",
+      "slug": "jade-dynasty-episode-94-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2022/08/Jade-Dynasty-Season-4-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 94"
+    },
+    {
+      "title": "Ancient God Sovereign Episode 36 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/ancient-god-sovereign-episode-36-subtitle-indonesia/",
+      "slug": "ancient-god-sovereign-episode-36-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Ancient-God-Sovereign.webp",
+      "sub": "Donghua",
+      "status": "Ep 36"
+    },
+    {
+      "title": "Oriental Martial Academy Episode 19 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/oriental-martial-academy-episode-19-subtitle-indonesia/",
+      "slug": "oriental-martial-academy-episode-19-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Oriental-Master-Academy.webp",
+      "sub": "Donghua",
+      "status": "Ep 19"
+    },
+    {
+      "title": "My Senior Brother Is Too Steady Episode 168 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/my-senior-brother-is-too-steady-episode-168-subtitle-indonesia/",
+      "slug": "my-senior-brother-is-too-steady-episode-168-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/01/My-Senior-Brother-Is-Too-Steady-Season-2-Subtitle-Indonesia.jpg",
+      "sub": "Donghua",
+      "status": "Ep 168"
+    },
+    {
+      "title": "Against the Gods Episode 64 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/against-the-gods-episode-64-subtitle-indonesia/",
+      "slug": "against-the-gods-episode-64-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/04/Against-the-Gods-Nian-Fan-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 64"
+    },
+    {
+      "title": "Spirit Realm Walker Episode 13 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/spirit-realm-walker-episode-13-subtitle-indonesia/",
+      "slug": "spirit-realm-walker-episode-13-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/09/Spirit-Realm-Walker.webp",
+      "sub": "Donghua",
+      "status": "Ep 13"
+    },
+    {
+      "title": "Under the Gate Episode 25 Tamat Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/under-the-gate-episode-25-tamat-subtitle-indonesia/",
+      "slug": "under-the-gate-episode-25-tamat-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/08/Under-the-Gate-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 25"
+    },
+    {
+      "title": "Lord of the Ancient God Grave Episode 501 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/lord-of-the-ancient-god-grave-episode-501-subtitle-indonesia/",
+      "slug": "lord-of-the-ancient-god-grave-episode-501-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/WAN-JIE-DU-ZUN-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Ep 501"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4 Episode 20 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/yi-nian-yong-heng-season-4-episode-20-subtitle-indonesia/",
+      "slug": "yi-nian-yong-heng-season-4-episode-20-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 20"
+    }
+  ],
+  "updates": [
+    {
+      "title": "Eat Around the Mortal World Episode 25 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/eat-around-the-mortal-world-episode-25-subtitle-indonesia/",
+      "slug": "eat-around-the-mortal-world-episode-25-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/11/Eat-Around-the-Mortal-World-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 25"
+    },
+    {
+      "title": "Supreme God Emperor Episode 659 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/supreme-god-emperor-episode-659-subtitle-indonesia/",
+      "slug": "supreme-god-emperor-episode-659-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Supreme-God-Emperor-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 659"
+    },
+    {
+      "title": "Against the Sky Supreme Episode 568 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/against-the-sky-supreme-episode-568-subtitle-indonesia/",
+      "slug": "against-the-sky-supreme-episode-568-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2021/07/Against.webp",
+      "sub": "Donghua",
+      "status": "Ep 568"
+    },
+    {
+      "title": "The Supreme Dantian Episode 39 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-supreme-dantian-episode-39-subtitle-indonesia/",
+      "slug": "the-supreme-dantian-episode-39-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/10/The-Supreme-Dantian.webp",
+      "sub": "Donghua",
+      "status": "Ep 39"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect Episode 180 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/soul-land-2-the-unrivaled-tang-sect-episode-180-subtitle-indonesia/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect-episode-180-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Soul-Land-2-The-Unrivaled-Tang-Sect-1.webp",
+      "sub": "Donghua",
+      "status": "Ep 180"
+    },
+    {
+      "title": "Lingwu Continent Episode 234 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/lingwu-continent-episode-234-subtitle-indonesia/",
+      "slug": "lingwu-continent-episode-234-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/07/Lingwu-Continent-Subtitle-Indonesia-Anichin.site_.webp",
+      "sub": "Donghua",
+      "status": "Ep 234"
+    },
+    {
+      "title": "Azure Legacy Episode 104 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/azure-legacy-episode-104-subtitle-indonesia/",
+      "slug": "azure-legacy-episode-104-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Azure-Legacy-Season-3-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 104"
+    },
+    {
+      "title": "The Great Ruler Chibi: Kota Kecil Great Qian Episode 35 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-great-ruler-chibi-kota-kecil-great-qian-episode-35-subtitle-indonesia/",
+      "slug": "the-great-ruler-chibi-kota-kecil-great-qian-episode-35-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/08/The-Great-Ruler-Chibi-Kota-Kecil-Great-Qian-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 35"
+    },
+    {
+      "title": "The Great Ruler 3D Episode 100 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-great-ruler-3d-episode-100-subtitle-indonesia/",
+      "slug": "the-great-ruler-3d-episode-100-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/The-Great-Ruler-3D-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 100"
+    },
+    {
+      "title": "God of War Alliance Episode 10 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/god-of-war-alliance-episode-10-subtitle-indonesia/",
+      "slug": "god-of-war-alliance-episode-10-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/God-of-War-Alliance-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 10"
+    },
+    {
+      "title": "The Guardian of Daxia Episode 18 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-guardian-of-daxia-episode-18-subtitle-indonesia/",
+      "slug": "the-guardian-of-daxia-episode-18-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/09/The-Guardian-of-Daxia.webp",
+      "sub": "Donghua",
+      "status": "Ep 18"
+    },
+    {
+      "title": "Jade Dynasty Episode 94 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/jade-dynasty-episode-94-subtitle-indonesia/",
+      "slug": "jade-dynasty-episode-94-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2022/08/Jade-Dynasty-Season-4-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 94"
+    },
+    {
+      "title": "Ancient God Sovereign Episode 36 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/ancient-god-sovereign-episode-36-subtitle-indonesia/",
+      "slug": "ancient-god-sovereign-episode-36-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Ancient-God-Sovereign.webp",
+      "sub": "Donghua",
+      "status": "Ep 36"
+    },
+    {
+      "title": "Oriental Martial Academy Episode 19 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/oriental-martial-academy-episode-19-subtitle-indonesia/",
+      "slug": "oriental-martial-academy-episode-19-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Oriental-Master-Academy.webp",
+      "sub": "Donghua",
+      "status": "Ep 19"
+    },
+    {
+      "title": "My Senior Brother Is Too Steady Episode 168 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/my-senior-brother-is-too-steady-episode-168-subtitle-indonesia/",
+      "slug": "my-senior-brother-is-too-steady-episode-168-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/01/My-Senior-Brother-Is-Too-Steady-Season-2-Subtitle-Indonesia.jpg",
+      "sub": "Donghua",
+      "status": "Ep 168"
+    },
+    {
+      "title": "Against the Gods Episode 64 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/against-the-gods-episode-64-subtitle-indonesia/",
+      "slug": "against-the-gods-episode-64-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/04/Against-the-Gods-Nian-Fan-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 64"
+    },
+    {
+      "title": "Spirit Realm Walker Episode 13 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/spirit-realm-walker-episode-13-subtitle-indonesia/",
+      "slug": "spirit-realm-walker-episode-13-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/09/Spirit-Realm-Walker.webp",
+      "sub": "Donghua",
+      "status": "Ep 13"
+    },
+    {
+      "title": "Under the Gate Episode 25 Tamat Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/under-the-gate-episode-25-tamat-subtitle-indonesia/",
+      "slug": "under-the-gate-episode-25-tamat-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/08/Under-the-Gate-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 25"
+    },
+    {
+      "title": "Lord of the Ancient God Grave Episode 501 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/lord-of-the-ancient-god-grave-episode-501-subtitle-indonesia/",
+      "slug": "lord-of-the-ancient-god-grave-episode-501-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/WAN-JIE-DU-ZUN-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Ep 501"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4 Episode 20 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/yi-nian-yong-heng-season-4-episode-20-subtitle-indonesia/",
+      "slug": "yi-nian-yong-heng-season-4-episode-20-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 20"
+    }
+  ],
+  "rating": [
+    {
+      "title": "BTTH SEASON 1-4",
+      "anichinUrl": "https://anichin.moe/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal Movie: Battle Of The Gods",
+      "anichinUrl": "https://anichin.moe/renegade-immortal-movie-battle-of-the-gods/",
+      "slug": "renegade-immortal-movie-battle-of-the-gods",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4",
+      "anichinUrl": "https://anichin.moe/yi-nian-yong-heng-season-4/",
+      "slug": "yi-nian-yong-heng-season-4",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "anichinUrl": "https://anichin.moe/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Shrouding the Heavens",
+      "anichinUrl": "https://anichin.moe/shrouding-the-heavens/",
+      "slug": "shrouding-the-heavens",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Perfect World",
+      "anichinUrl": "https://anichin.moe/perfect-world/",
+      "slug": "perfect-world",
+      "poster": "https://anichin.moe/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect",
+      "anichinUrl": "https://anichin.moe/soul-land-2-the-unrivaled-tang-sect/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "BTTH Movie: Battle of Two Emperors",
+      "anichinUrl": "https://anichin.moe/btth-movie-battle-of-two-emperors/",
+      "slug": "btth-movie-battle-of-two-emperors",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/11/BTTH-Movie-Battle-of-Two-Emperors-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Azure Legacy",
+      "anichinUrl": "https://anichin.moe/azure-legacy/",
+      "slug": "azure-legacy",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "anichinUrl": "https://anichin.moe/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "poster": "https://anichin.moe/wp-content/uploads/2020/07/554918.jpg",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "BTTH SEASON 5",
+      "anichinUrl": "https://anichin.moe/oyen-pertempuran-akhir-sekte-misty-cloud/",
+      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal",
+      "anichinUrl": "https://anichin.moe/renegade-immortal/",
+      "slug": "renegade-immortal",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Wu Dong Qian Kun Season 7",
+      "anichinUrl": "https://anichin.moe/wu-dong-qian-kun-season-7/",
+      "slug": "wu-dong-qian-kun-season-7",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/11/Wu-Dong-Qian-Kun-Season-7-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "anichinUrl": "https://anichin.moe/tales-of-herding-god/",
+      "slug": "tales-of-herding-god",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    }
+  ],
+  "completed": [],
+  "catalog": [
+    {
+      "title": "Eat Around the Mortal World Episode 25 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/eat-around-the-mortal-world-episode-25-subtitle-indonesia/",
+      "slug": "eat-around-the-mortal-world-episode-25-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/11/Eat-Around-the-Mortal-World-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 25"
+    },
+    {
+      "title": "Supreme God Emperor Episode 659 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/supreme-god-emperor-episode-659-subtitle-indonesia/",
+      "slug": "supreme-god-emperor-episode-659-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Supreme-God-Emperor-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 659"
+    },
+    {
+      "title": "Against the Sky Supreme Episode 568 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/against-the-sky-supreme-episode-568-subtitle-indonesia/",
+      "slug": "against-the-sky-supreme-episode-568-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2021/07/Against.webp",
+      "sub": "Donghua",
+      "status": "Ep 568"
+    },
+    {
+      "title": "The Supreme Dantian Episode 39 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-supreme-dantian-episode-39-subtitle-indonesia/",
+      "slug": "the-supreme-dantian-episode-39-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/10/The-Supreme-Dantian.webp",
+      "sub": "Donghua",
+      "status": "Ep 39"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect Episode 180 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/soul-land-2-the-unrivaled-tang-sect-episode-180-subtitle-indonesia/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect-episode-180-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Soul-Land-2-The-Unrivaled-Tang-Sect-1.webp",
+      "sub": "Donghua",
+      "status": "Ep 180"
+    },
+    {
+      "title": "Lingwu Continent Episode 234 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/lingwu-continent-episode-234-subtitle-indonesia/",
+      "slug": "lingwu-continent-episode-234-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/07/Lingwu-Continent-Subtitle-Indonesia-Anichin.site_.webp",
+      "sub": "Donghua",
+      "status": "Ep 234"
+    },
+    {
+      "title": "Azure Legacy Episode 104 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/azure-legacy-episode-104-subtitle-indonesia/",
+      "slug": "azure-legacy-episode-104-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Azure-Legacy-Season-3-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 104"
+    },
+    {
+      "title": "The Great Ruler Chibi: Kota Kecil Great Qian Episode 35 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-great-ruler-chibi-kota-kecil-great-qian-episode-35-subtitle-indonesia/",
+      "slug": "the-great-ruler-chibi-kota-kecil-great-qian-episode-35-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/08/The-Great-Ruler-Chibi-Kota-Kecil-Great-Qian-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 35"
+    },
+    {
+      "title": "The Great Ruler 3D Episode 100 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-great-ruler-3d-episode-100-subtitle-indonesia/",
+      "slug": "the-great-ruler-3d-episode-100-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/The-Great-Ruler-3D-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 100"
+    },
+    {
+      "title": "God of War Alliance Episode 10 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/god-of-war-alliance-episode-10-subtitle-indonesia/",
+      "slug": "god-of-war-alliance-episode-10-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/God-of-War-Alliance-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 10"
+    },
+    {
+      "title": "The Guardian of Daxia Episode 18 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/the-guardian-of-daxia-episode-18-subtitle-indonesia/",
+      "slug": "the-guardian-of-daxia-episode-18-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/09/The-Guardian-of-Daxia.webp",
+      "sub": "Donghua",
+      "status": "Ep 18"
+    },
+    {
+      "title": "Jade Dynasty Episode 94 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/jade-dynasty-episode-94-subtitle-indonesia/",
+      "slug": "jade-dynasty-episode-94-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2022/08/Jade-Dynasty-Season-4-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 94"
+    },
+    {
+      "title": "Ancient God Sovereign Episode 36 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/ancient-god-sovereign-episode-36-subtitle-indonesia/",
+      "slug": "ancient-god-sovereign-episode-36-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Ancient-God-Sovereign.webp",
+      "sub": "Donghua",
+      "status": "Ep 36"
+    },
+    {
+      "title": "Oriental Martial Academy Episode 19 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/oriental-martial-academy-episode-19-subtitle-indonesia/",
+      "slug": "oriental-martial-academy-episode-19-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Oriental-Master-Academy.webp",
+      "sub": "Donghua",
+      "status": "Ep 19"
+    },
+    {
+      "title": "My Senior Brother Is Too Steady Episode 168 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/my-senior-brother-is-too-steady-episode-168-subtitle-indonesia/",
+      "slug": "my-senior-brother-is-too-steady-episode-168-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/01/My-Senior-Brother-Is-Too-Steady-Season-2-Subtitle-Indonesia.jpg",
+      "sub": "Donghua",
+      "status": "Ep 168"
+    },
+    {
+      "title": "Against the Gods Episode 64 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/against-the-gods-episode-64-subtitle-indonesia/",
+      "slug": "against-the-gods-episode-64-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/04/Against-the-Gods-Nian-Fan-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 64"
+    },
+    {
+      "title": "Spirit Realm Walker Episode 13 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/spirit-realm-walker-episode-13-subtitle-indonesia/",
+      "slug": "spirit-realm-walker-episode-13-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/09/Spirit-Realm-Walker.webp",
+      "sub": "Donghua",
+      "status": "Ep 13"
+    },
+    {
+      "title": "Under the Gate Episode 25 Tamat Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/under-the-gate-episode-25-tamat-subtitle-indonesia/",
+      "slug": "under-the-gate-episode-25-tamat-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/08/Under-the-Gate-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 25"
+    },
+    {
+      "title": "Lord of the Ancient God Grave Episode 501 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/lord-of-the-ancient-god-grave-episode-501-subtitle-indonesia/",
+      "slug": "lord-of-the-ancient-god-grave-episode-501-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/WAN-JIE-DU-ZUN-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Ep 501"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4 Episode 20 Subtitle Indonesia",
+      "anichinUrl": "https://anichin.moe/yi-nian-yong-heng-season-4-episode-20-subtitle-indonesia/",
+      "slug": "yi-nian-yong-heng-season-4-episode-20-subtitle-indonesia",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Ep 20"
+    },
+    {
+      "title": "BTTH SEASON 1-4",
+      "anichinUrl": "https://anichin.moe/btth-full-s1-s4/",
+      "slug": "btth-full-s1-s4",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/02/BTTH-FULL-SEASON-1-SEASON-2-SEASON-3-SEASON-4-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal Movie: Battle Of The Gods",
+      "anichinUrl": "https://anichin.moe/renegade-immortal-movie-battle-of-the-gods/",
+      "slug": "renegade-immortal-movie-battle-of-the-gods",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/05/Renegade-Immortal-Movie-Battle-of-The-Gods-Subtitle-Indonesia-1.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Yi Nian Yong Heng Season 4",
+      "anichinUrl": "https://anichin.moe/yi-nian-yong-heng-season-4/",
+      "slug": "yi-nian-yong-heng-season-4",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/07/Yi-Nian-Yong-Heng-Season-4-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal Movie: Slaying The Blood Progenitor",
+      "anichinUrl": "https://anichin.moe/renegade-immortal-movie-slaying-the-blood-progenitor/",
+      "slug": "renegade-immortal-movie-slaying-the-blood-progenitor",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/10/Renegade-Immortal-Movie-Slaying-The-Blood-Progenitor-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Shrouding the Heavens",
+      "anichinUrl": "https://anichin.moe/shrouding-the-heavens/",
+      "slug": "shrouding-the-heavens",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/12/Shrouding-the-Heavens-Episode-89-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Perfect World",
+      "anichinUrl": "https://anichin.moe/perfect-world/",
+      "slug": "perfect-world",
+      "poster": "https://anichin.moe/wp-content/uploads/2021/01/Perfect-World-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Soul Land 2: The Unrivaled Tang Sect",
+      "anichinUrl": "https://anichin.moe/soul-land-2-the-unrivaled-tang-sect/",
+      "slug": "soul-land-2-the-unrivaled-tang-sect",
+      "poster": "https://anichin.moe/wp-content/uploads/2024/09/Soul-Land-2-The-Unrivaled-Tang-Sect-Episode-65-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "BTTH Movie: Battle of Two Emperors",
+      "anichinUrl": "https://anichin.moe/btth-movie-battle-of-two-emperors/",
+      "slug": "btth-movie-battle-of-two-emperors",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/11/BTTH-Movie-Battle-of-Two-Emperors-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Azure Legacy",
+      "anichinUrl": "https://anichin.moe/azure-legacy/",
+      "slug": "azure-legacy",
+      "poster": "https://anichin.moe/wp-content/uploads/2023/06/Azure-Legacy-Cover-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "A Record of A Mortal’s Journey to Immortality",
+      "anichinUrl": "https://anichin.moe/a-record-of-a-mortals-journey-to-immortality/",
+      "slug": "a-record-of-a-mortals-journey-to-immortality",
+      "poster": "https://anichin.moe/wp-content/uploads/2020/07/554918.jpg",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "BTTH SEASON 5",
+      "anichinUrl": "https://anichin.moe/oyen-pertempuran-akhir-sekte-misty-cloud/",
+      "slug": "oyen-pertempuran-akhir-sekte-misty-cloud",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/BTTH-SEASON-5-EPISODE-131-SUBTITLE-INDONESIA.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Renegade Immortal",
+      "anichinUrl": "https://anichin.moe/renegade-immortal/",
+      "slug": "renegade-immortal",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/02/Renegade-Immortal-Episode-74-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Wu Dong Qian Kun Season 7",
+      "anichinUrl": "https://anichin.moe/wu-dong-qian-kun-season-7/",
+      "slug": "wu-dong-qian-kun-season-7",
+      "poster": "https://anichin.moe/wp-content/uploads/2026/11/Wu-Dong-Qian-Kun-Season-7-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    },
+    {
+      "title": "Tales of Herding Gods",
+      "anichinUrl": "https://anichin.moe/tales-of-herding-god/",
+      "slug": "tales-of-herding-god",
+      "poster": "https://anichin.moe/wp-content/uploads/2025/01/Tales-of-Herding-Gods-Episode-12-Subtitle-Indonesia.webp",
+      "sub": "Donghua",
+      "status": "Pilihan Populer"
+    }
+  ],
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "Historical",
+      "slug": "historical"
+    },
+    {
+      "name": "Martial Arts",
+      "slug": "martial-arts"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Sci-Fi",
+      "slug": "sci-fi"
+    },
+    {
+      "name": "Supernatural",
+      "slug": "supernatural"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "schedule": [],
+  "activeDay": ""
+}

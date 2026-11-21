@@ -1,0 +1,32 @@
+{
+  "functions": {
+    "api/anichin.js": {
+      "maxDuration": 10
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/v1/:path*",
+      "destination": "https://apisoft.tiyan.my.id/v1/:path*"
+    },
+    {
+      "source": "/api/anichin",
+      "destination": "/api/anichin"
+    },
+    {
+      "source": "/(.*\\.mp4)",
+      "has": [
+        {
+          "type": "query",
+          "key": "url",
+          "value": "(?<url>.*)"
+        }
+      ],
+      "destination": "https://apisoft.tiyan.my.id/v1/p/legacy.mp4?url=:url"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
